@@ -1,0 +1,2 @@
+You can downoad dataset from below link
+https://zenodo.org/record/4281122/files/AI_Ready_DMSP_Data.csv?download=1
