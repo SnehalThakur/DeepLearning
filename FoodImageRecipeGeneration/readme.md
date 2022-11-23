@@ -1,10 +1,10 @@
 Items
 ------------
-Burger
-FrenchFries
-Cheese Cake
-Pizza
-Hotdog
+1. Burger
+2. FrenchFries
+3. Cheese Cake
+4. Pizza
+5. Hotdog
 
 
 SQLite DB
